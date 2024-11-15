@@ -142,7 +142,7 @@
 
     Thus, the overall time complexity is **O(n)**, where `n` is the length of the array.
 
-### Space Complexity
+- ### Space Complexity
     - The algorithm uses a constant amount of extra space, as we only need a few pointers and variables to keep track of the result.
     - No additional data structures (like arrays or hashmaps) are used.
 
